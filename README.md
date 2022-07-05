@@ -23,7 +23,7 @@ The analysis was performed through:
 -	Creating a line chart with markers titled “Theater Outcomes Based on Launch Date” based on the pivot table created.
 -	Putting the number of outcomes in the Y axis for the ‘successful’, ‘failed’, ‘canceled’.
 -	Putting the count of outcomes by month in the x axis to show the change over time.
-![Outcomes Based on Lunch Date](C:\Users\Lee\Desktop\Lee-KUBootcamp\Resources)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/108282027/177367598-6591ca15-00c2-4772-b01a-f5631fd4c80b.png)
 ## Analysis of Outcomes based on Goals
 The analysis was performed through:
 -	Creating new header for columns A-H, by the range of goal, followed by the number of ‘successful’, ‘failed’, ‘canceled’, column for the total, with the percentage of columns B-D.
@@ -32,7 +32,7 @@ The analysis was performed through:
 -	Generating the percentage of each outcome.
 -	Based on the information that was filled within the table, generating a line chart to show the percentage of each outcome based on the range of the goal. 
 -	Goal range on the X axis and Percentage of each outcome range in the Y axis.
-![Outcomes_vs_goals](C:\Users\Lee\Desktop\Lee-KUBootcamp\Resources)
+![Outcomes_vs_goals](https://user-images.githubusercontent.com/108282027/177367483-6fc25020-780a-44b5-b599-e10deab4b6d6.png)
 ## Results
 o	The highest count number of successful outcomes based on plays had the goal range of $1,000-$4,9999. With the count of 388 successes out of 534 total projects. Which leads to 73% successful rate.
 o	Highest successful percentage had the goal of less than $1,000 with a success rate of 76%.
